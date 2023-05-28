@@ -35,6 +35,5 @@ Four board components are shown:
 ## Getting started
 
 After cloning the repository, run the following commands in bash:
-
 • npm install
 • npm run dev
