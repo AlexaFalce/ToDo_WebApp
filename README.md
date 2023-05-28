@@ -1,4 +1,4 @@
-TODO-LIST WEB APPLICATION
+## TODO-LIST WEB APPLICATION
 
 development of a reusable board component with the Svelte framework for displaying a board of issues.
 
