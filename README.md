@@ -28,7 +28,7 @@ development of a reusable board component with the Svelte framework for displayi
 
 
 
-## Demo:
+## Demo
 
 Four board components are shown:
 1. component with list of boards and issues managed remotely with search bar not visible and when clicking on the issue it shows the title; 
